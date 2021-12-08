@@ -18,6 +18,7 @@
 </template>
 
 <script>
+import Head from './components/Head.vue'
 import  Car from './components/Car.vue'
 import Counter from './components/Counter.vue'
 import Student  from "./components/Student.vue"
@@ -27,7 +28,8 @@ export default {
   components: {
     Car,
     Counter,
-    Student
+    Student,
+    Head
   }
 }
 </script>
