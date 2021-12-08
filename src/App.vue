@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import Head from './components/Head1.vue'
+import Head from './components/Head.vue'
 import  Car from './components/Car.vue'
 import Counter from './components/Counter.vue'
 import Student  from "./components/Student.vue"
