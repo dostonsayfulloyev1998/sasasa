@@ -14,6 +14,7 @@
     <Counter/>
     <Counter/>
     <Student/>
+    <Head/>
   </div>
 </template>
 
